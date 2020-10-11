@@ -1,0 +1,11 @@
+create a git repository in github
+- add a collaborator your team member 
+- each member make a their own branch and create a random text file
+ with any name and work on it
+- try to merge the branch to the master  by each member
+- create the same file in all the branches and try to merge it to master  
+also try to edit the same file by all the team member and try to push it.
+(https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- try to create a merge conflict situation and solve it. 
+
+- include the code as well as the snip shot of the solution .
