@@ -3,8 +3,6 @@ Let’s go through a simple example of branching and merging with a workflow tha
 
 Create a branch for a new user story you’re working on.
 
-Do Some work in that branch.
-
 At this stage, you’ll receive a call that another issue is critical and you need a hotfix. You’ll do the following:
 
 Switch to your production branch. Create a branch to add the hotfix.
