@@ -4,6 +4,7 @@ Let’s go through a simple example of branching and merging with a workflow tha
 	Create a branch for a new user story you’re working on.
 
 
+
 Do Some work in that branch.
 	
 
@@ -21,5 +22,6 @@ Do Some work in that branch.
 
 drink more water and eat more fruits
 
+>>>>>>> origin
 
 
