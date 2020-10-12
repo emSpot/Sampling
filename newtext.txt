@@ -1,11 +1,11 @@
 Basic Branching and Merging
-Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps: Do some work on a website.
+Let’s go through a simple example of branching and merging with a workflow that you might use in the real world. You’ll follow these steps:
+
+Do some work on a website.
 
 	Create a branch for a new user story you’re working on.
 
-
-Do Some work in that branch.
-	
+	Do some work in that branch.
 
 	At this stage, you’ll receive a call that another issue is critical and you need a hotfix. You’ll do the following:
 
