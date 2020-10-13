@@ -1,0 +1,37 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://jekyller.github.io/vitae
+author: Fábio Madeira
+
+# edit this section with your information
+# jekyller.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: /vitae/
+title: Chhimi Lama's resume
+name: Chhimi Lama
+email: chhimithinley@gmail.com
+email_full: chhimithinley@gmail.com
+website: github.io/sustain
+website_full: https://jekyller.github.io/sustain
+github: trending
+tel: +358 451527393
+tel_full: tel:+358 451527393
+google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address:
+  street: Viljelijantie 4-6 a
+  postcode: 00740
+  city: Helsinki
+  country: Finland
+google_analytics: UA-69300817-1
+
+# needed for travis-ci build
+exclude: [vendor]
+jekyll run
+
